@@ -3,5 +3,5 @@ A simple script to train and evaluate train and evaluate faster rcnn model. In a
 To train use below:
 
 ````bash
- python -m scripts.train_faster_rcnn --data_root /home/annotator/Documents/Dataset/conpose_unity --bs 8 --num_workers 11 --num_classes 6
+ python -m scripts.train_faster_rcnn --data_root /path/to/your_root_data/ --bs 8 --num_workers 11 --num_classes 6
 
