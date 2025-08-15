@@ -3,3 +3,5 @@ scratch
 .env
 .env.secret
 runs
+meshes
+canonical_files
